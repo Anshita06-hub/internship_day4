@@ -20,20 +20,19 @@ include './themepart/menu.php';
 
 
 ?>
-   
-
-          <div id="site_content">
-              <?php
+      <div id="site_content">
+ <?php
 include './themepart/slider.php';
-
 ?>
 
       <div class="content">
         <h1>Welcome to my template integration </h1>
-        <p>This website is managed by me. </p>
+        <p>123456789 </p>
         
       </div>
     </div>
+   
+
  <?php
 include './themepart/footer.php';
  ?>
@@ -50,5 +49,6 @@ include './themepart/footer.php';
   </script>
 </body>
 </html>
+
 
 
